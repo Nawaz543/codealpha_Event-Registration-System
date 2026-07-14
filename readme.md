@@ -130,6 +130,19 @@ http://localhost:3000
 
 ---
 
+## 📸 Screenshots
+
+ ### Thunder Client Response
+
+
+<img width="1920" height="1140" alt="Screenshot 2026-07-02 213327" src="https://github.com/user-attachments/assets/9a1ec267-717a-430b-bf3c-874541f54a14" />
+
+##  & MongoDb Database
+
+
+<img width="1912" height="1083" alt="Screenshot 2026-07-14 213159" src="https://github.com/user-attachments/assets/94154f22-388a-4005-8433-1e2b6a2ee94a" />
+
+---
 ## 🔒 Authentication
 
 Protected routes require a JWT token.
